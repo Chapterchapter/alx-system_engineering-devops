@@ -1,0 +1,1 @@
+_basics of shell scripting and its the first and easy shell scripting as hello world ! __
