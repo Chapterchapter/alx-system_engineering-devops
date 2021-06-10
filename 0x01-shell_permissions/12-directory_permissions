@@ -1,2 +1,2 @@
 #!/bin/bash
-install -m 751 dir_holberton
+umask 751 dir_holberton
