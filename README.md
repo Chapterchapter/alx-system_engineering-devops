@@ -1,1 +1,1 @@
-__this is the fires devops and schell scripting development program collection__
+__This file is mandatory in all ALX School projects__
