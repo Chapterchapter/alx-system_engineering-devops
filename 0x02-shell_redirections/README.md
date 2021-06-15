@@ -1,0 +1,1 @@
+__a new way to learn linux shell scripting this is all about redirection __
