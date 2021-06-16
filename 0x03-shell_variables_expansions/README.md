@@ -1,0 +1,1 @@
+__this is the new shell scripting practice uses variable __
